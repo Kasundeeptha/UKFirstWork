@@ -1,0 +1,11 @@
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\bin\Debug\DataModule.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\bin\Debug\DataModule.pdb
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\obj\Debug\DataModule.csproj.AssemblyReference.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\obj\Debug\DataModule.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\obj\Debug\DataModule.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataModule\obj\Debug\DataModule.pdb
+D:\GuestTalk_15124\UK First Project\Project\DataModule\bin\Debug\DataModule.dll
+D:\GuestTalk_15124\UK First Project\Project\DataModule\bin\Debug\DataModule.pdb
+D:\GuestTalk_15124\UK First Project\Project\DataModule\obj\Debug\DataModule.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\UK First Project\Project\DataModule\obj\Debug\DataModule.dll
+D:\GuestTalk_15124\UK First Project\Project\DataModule\obj\Debug\DataModule.pdb

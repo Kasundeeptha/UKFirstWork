@@ -1,0 +1,22 @@
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\DataModule.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\DataModule.pdb
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\DataLayer.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\BusinessLogic\bin\Debug\DataLayer.pdb
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\DataLayer.dll
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\DataModule.dll
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\DataLayer.pdb
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\bin\Debug\DataModule.pdb
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\GuestTalk_15124\UK First Project\Project\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,12 @@
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\bin\Debug\DataLayer.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\bin\Debug\DataLayer.pdb
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\obj\Debug\DataLayer.dll
+D:\GuestTalk_15124\Actual\HotelCRMAssignment\DataLayer\obj\Debug\DataLayer.pdb
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\bin\Debug\DataLayer.dll
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\bin\Debug\DataLayer.pdb
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\obj\Debug\DataLayer.dll
+D:\GuestTalk_15124\UK First Project\Project\DataLayer\obj\Debug\DataLayer.pdb
